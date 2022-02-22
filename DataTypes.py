@@ -46,6 +46,6 @@ print(courses.keys())
 print(courses.values())
 
 print(courses)
-print(Fruites)
+print(Fruits)
 print("Akarsh Reddy is Royal Reddy King")
 
