@@ -45,7 +45,11 @@ print(courses)
 print(courses.keys())
 print(courses.values())
 
-print(courses)
-print(Fruits)
-print("Akarsh Reddy is Royal Reddy King")
+#Tuples
+animal=(10,10,20,"tiger","lion","Giraffe","tiger")
+print(animal.count(10))
+print(animal[2])
+print(animal)
+animal[2]=30
+
 
