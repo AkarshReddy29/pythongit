@@ -51,5 +51,19 @@ print(animal.count(10))
 print(animal[2])
 print(animal)
 
+#Set
+browsers= {"chrome", "chrome", "edge", "edge", "firefox"}
+print(browsers)
+#browsers[1]="chrome1"
+#print('changes :- ',browsers)
 
+#Range
+list(range(10))
+print(tuple(range(5,10)))
+
+#Type Conversion
+A=10
+B='String'
+C={A,B}
+print(type(C))
 
